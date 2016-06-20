@@ -8,7 +8,7 @@ using System.Net;
 using System.IO;
 using System.Net.Security;
 using System.Security.Cryptography.X509Certificates;
-using Newtonsoft.Json.Linq; // A popular high-performance JSON framework for .NET, version 8.0.3 available in the lib directory
+using Newtonsoft.Json.Linq;  // A popular high-performance JSON framework for .NET, version 8.0.3 available in the lib directory
 
 namespace VserverList
 {
