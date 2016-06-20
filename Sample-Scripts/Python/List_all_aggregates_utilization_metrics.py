@@ -1,6 +1,6 @@
 ##########################################################
 ##        This program lists all the aggregates         ##
-##        and associated metrics), based on the         ##
+##        and associated metrics, based on the         	##
 ##                  space utilization                   ##
 ##########################################################
 
